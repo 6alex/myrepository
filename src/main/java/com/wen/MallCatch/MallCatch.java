@@ -20,7 +20,7 @@ import com.wen.po.Goods;
 
 public class MallCatch {
 	
-	
+	//这是抓取主程序
 	
 	public static void main(String[] args) {
 		String html = getUrlString("http://mall.998.com/gallery-1146.html");
